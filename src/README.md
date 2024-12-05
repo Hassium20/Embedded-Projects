@@ -56,12 +56,11 @@ To implement this project, you will need:
 - **State Machine**: Implements a structured flow with states like `Initialisation`, `countdownState`, `timer_running`, and more.
 
 ---
+## Building the project 
+1. Import the .cpp file and required libraries into your Mbed project.
+2. Ensure all hardware components are connected according to the pin mappings in the code.
+3. Compile and flash the program to your board.
 
-## Running the Project
-1. Ensure you are using **Mbed OS 2** for compatibility.
-2. Connect the required hardware components.
-4. Compile and flash the program onto your microcontroller.
-5. Test the system functionality.
 
 ---
 
